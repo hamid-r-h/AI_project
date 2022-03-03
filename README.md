@@ -7,7 +7,7 @@ this project is to train an end-to-end model in order to predict the user audien
 we train persian data and use some persian library for digesting Persian text.
 
 # Requirments
-*pandas
-*numpy
-*hazm
-*parsivar
+* pandas
+* numpy
+* hazm
+* parsivar
